@@ -17,3 +17,20 @@ body {
     height: 100px;
     margin: 5px 5px 0 0;
 }
+
+/*text under logo*/
+.navbar-brand p {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    font-size: .8em;
+    position: relative;
+    left: 25px;
+    bottom: 5px;
+    font-weight: 50;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
