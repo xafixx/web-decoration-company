@@ -1,0 +1,19 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #D3D59F;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/** Header **/
+#header-nav{
+    background-color: #565656;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    width: 175px;
+    height: 100px;
+    margin: 5px 5px 0 0;
+}
